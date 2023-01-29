@@ -14,9 +14,9 @@ The input is a CSV file, consist of **process_id**, **arrival_time**, **cpu_time
 
 ## Output
 Output shows **Response time**, **Waiting Time**, **Turnaround time** and **Start and End time** of each process. and also:
-+ Total Time and Idle Time
-+ Average Waiting Time
-+ Average Response Time
-+ Average Turnaround Time
-+ CPU Utilization
-+ Throughput
++ **Total Time and Idle Time**
++ **Average Waiting Time**
++ **Average Response Time**
++ **Average Turnaround Time**
++ **CPU Utilization**
++ **Throughput**
